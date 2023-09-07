@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm PeterWang-dev! 👋
+
+- 🔭 I’m currently working on hardware accelerator design and [ysyx project](https://github.com/OSCPU) from ICT. 
+- 🌱 I’m currently learning digital design, computer architecture and rust programming language.
+<!-- - 📫 How to reach me: PeterWang030908@hotmail.com -->
+- 😄 Pronouns: Peter Wang he/him
+- ⚡ Fun fact: Non-standard ENTJ :)
+
 
 <!--
 **PeterWang-dev/PeterWang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
